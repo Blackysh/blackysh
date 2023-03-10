@@ -1,7 +1,7 @@
 # ⭐ Hi, I am Sahib.
 
 # 💫 About Me:
-Hey there, my name is Sahib and I'm a programmer/developer!<br><br>I mostly create desktop applications and websites,<br><br>but I can develop other types of software. Like bots, mobile apps, servers, etc.<br>
+Hey there, my name is Sahib and I'm a programmer/developer! I mostly create desktop applications and websites, but I can develop other types of software. Like bots, mobile apps, servers, etc.<br>
 
 
 ## 🌐 Socials:
