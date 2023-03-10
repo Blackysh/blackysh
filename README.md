@@ -1,6 +1,6 @@
 # ⭐ Hi, I am Sahib.
 
-## [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EMbKt3BmRG) 
+[![My Website](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0_TcRGHiD9SMKEeX7wYbHTgJGp1ZLDcYXow&usqp=CAU)](https://Sahibb.vercel.app)
 
 # 💫 About Me:
 Hey there, my name is Sahib and I'm a programmer/developer! I mostly create desktop applications and websites, but I can develop other types of software. Like bots, mobile apps, servers, etc.<br>
